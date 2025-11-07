@@ -25,6 +25,8 @@
 * GenAD: Generative End-to-End Autonomous Driving [Paper](https://arxiv.org/pdf/2402.11502), [Code](https://github.com/wzzheng/GenAD)
 
 
+### Datasets
+* WOD-E2E: Waymo Open Dataset for End-to-End Driving in Challenging Long-tail Scenarios [Paper](https://arxiv.org/pdf/2510.26125)
 
 ### Surveys
 * A Survey of World Models for Autonomous Driving [Paper](https://arxiv.org/abs/2501.11260)
