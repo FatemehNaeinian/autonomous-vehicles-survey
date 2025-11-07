@@ -6,7 +6,7 @@
 ### End-to-End AD 
 * World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model [Paper](https://arxiv.org/abs/2507.00603)
 * WoTE: End-to-End Driving with Online Trajectory Evaluation via BEV World Model [Paper](https://arxiv.org/abs/2504.01941), [Code](https://github.com/liyingyanUCAS/WoTE)
- * MomAD: Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving ; [Paper](https://arxiv.org/abs/2503.03125), [Code](https://github.com/adept-thu/MomAD), [Website](https://4dvlab.github.io/project_page/realad)
+* MomAD: Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving ; [Paper](https://arxiv.org/abs/2503.03125), [Code](https://github.com/adept-thu/MomAD), [Website](https://4dvlab.github.io/project_page/realad)
 
 * LAW: Enhancing End-to-End Autonomous Driving with Latent World Model [Paper](https://openreview.net/pdf?id=fd2u60ryG0), [Code](https://github.com/BraveGroup/LAW)
 * SSR: Navigation-Guided Sparse Scene Representation for End-to-End Autonomous Driving [Paper](https://openreview.net/pdf?id=Vv76fCYffN), [Code](https://github.com/PeidongLi/SSR)
@@ -53,18 +53,18 @@ Data System, Data Mining, and Closed-Loop Technologies [Paper](https://arxiv.org
 * UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs [Paper](https://arxiv.org/pdf/2511.01768), [Code](https://github.com/happinesslz/UniLION)
 * DINO-Foresight: Looking into the Future with DINO [Paper](https://arxiv.org/abs/2412.11673), [Code](https://github.com/Sta8is/DINO-Foresight)
 
-  * Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency [Paper](https://arxiv.org/abs/2506.07497), [website](https://arxiv.org/abs/2506.07497), [Code to be released](https://github.com/xiaomi-research/genesis)
+* Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency [Paper](https://arxiv.org/abs/2506.07497), [website](https://arxiv.org/abs/2506.07497), [Code to be released](https://github.com/xiaomi-research/genesis)
 
-  * AdaWM: Adaptive World Model-based Planning for Autonomous Driving [Paper](https://openreview.net/pdf?id=NEu8wgPctU)
+* AdaWM: Adaptive World Model-based Planning for Autonomous Driving [Paper](https://openreview.net/pdf?id=NEu8wgPctU)
  
 
 * AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data.[Paper](https://arxiv.org/abs/2501.04969), [Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)
 
-* 2025-V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning  [Paper](https://ai.meta.com/research/publications/v-jepa-2-self-supervised-video-models-enable-understanding-prediction-and-planning/), [Code](https://github.com/facebookresearch/vjepa2)
-  * 2024-V-JEPA: Revisiting Feature Prediction for Learning Visual Representations from Video [Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/), [Code](https://github.com/facebookresearch/jepa)
+* V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning  [Paper](https://ai.meta.com/research/publications/v-jepa-2-self-supervised-video-models-enable-understanding-prediction-and-planning/), [Code](https://github.com/facebookresearch/vjepa2)
+* V-JEPA: Revisiting Feature Prediction for Learning Visual Representations from Video [Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/), [Code](https://github.com/facebookresearch/jepa)
 
 
-* 2023-I-JEPA: Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture [Paper](https://arxiv.org/abs/2301.08243), [Code](https://github.com/facebookresearch/ijepa)
+* I-JEPA: Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture [Paper](https://arxiv.org/abs/2301.08243), [Code](https://github.com/facebookresearch/ijepa)
 
 
 
