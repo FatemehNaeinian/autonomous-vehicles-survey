@@ -42,6 +42,7 @@ Data System, Data Mining, and Closed-Loop Technologies [Paper](https://arxiv.org
 
 
 ### World Models
+* Back to the Features: DINO as a Foundation for Video World Models [Paper](https://arxiv.org/pdf/2507.19468)
 * UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs [Paper](https://arxiv.org/pdf/2511.01768), [Code](https://github.com/happinesslz/UniLION)
 * DINO-Foresight: Looking into the Future with DINO [Paper](https://arxiv.org/abs/2412.11673), [Code](https://github.com/Sta8is/DINO-Foresight)
 * Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency [Paper](https://arxiv.org/abs/2506.07497), [website](https://arxiv.org/abs/2506.07497), [Code to be released](https://github.com/xiaomi-research/genesis)
